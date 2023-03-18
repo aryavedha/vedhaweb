@@ -16,8 +16,8 @@
     "kind" : "ReplicationController",
     "metadata" : {
       "annotations" : {
-        "fabric8.io/git-branch" : "master",
-        "fabric8.io/git-commit" : "e8032529435a01a835991c779eb3dc1e7febbe06"
+        "fabric8.io/git-branch" : "dev",
+        "fabric8.io/git-commit" : "c4b1f5d983e2ab8dc19454322cb970ec652b4a8a"
       },
       "labels" : {
         "container" : "java",
